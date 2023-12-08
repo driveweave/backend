@@ -1,4 +1,6 @@
 # Driveweave
+Driveweave a decentralized file-sharing application where users can upload files, and the files are stored securely on the Arweave blockchain. This ensures that the files are immutable, tamper-proof, and permanently accessible.
+
 # Installation:
 ## Prerequisites:
 - **Docker:** Ensure Docker is installed on your system. If not, download and install Docker from [Docker's official website](https://www.docker.com/get-started).
@@ -13,7 +15,7 @@ To set up both the client and server components using Docker, execute the follow
 These commands will build and launch the client and server components in separate Docker containers, setting up the app in development mode.
 
 ## 3. Launching the App:
-Once the setup is complete, visit *http://localhost:4000* in your browser to access the Eunoia chat app client.
+Once the setup is complete, visit *http://localhost:5000* in your browser to access the Eunoia chat app client.
 
 # Contributing:
 If you're new to contributing to open-source projects or our codebase, here are a few steps to get you started:
